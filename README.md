@@ -9,9 +9,6 @@
   just a text about something
   just a text about something
 
-1. foxes
-1. foxes
-
 ```js
 let name = "Sayeed";
 alert(name);
@@ -24,3 +21,5 @@ if you want to highlight use `this`
 ### third headline
 
 #### fourth headline
+
+:fox_face:
